@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP MVC\\SistemaAutoEscola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82B55C85-2F86-491C-9A29-A910DE8AE50E}|SistemaAutoEscola\\SistemaAutoEscola.csproj|d:\\asp mvc\\sistemaautoescola\\sistemaautoescola\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B55C85-2F86-491C-9A29-A910DE8AE50E}|SistemaAutoEscola\\SistemaAutoEscola.csproj|solutionrelative:sistemaautoescola\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B55C85-2F86-491C-9A29-A910DE8AE50E}|SistemaAutoEscola\\SistemaAutoEscola.csproj|d:\\asp mvc\\sistemaautoescola\\sistemaautoescola\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82B55C85-2F86-491C-9A29-A910DE8AE50E}|SistemaAutoEscola\\SistemaAutoEscola.csproj|solutionrelative:sistemaautoescola\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B55C85-2F86-491C-9A29-A910DE8AE50E}|SistemaAutoEscola\\SistemaAutoEscola.csproj|d:\\asp mvc\\sistemaautoescola\\sistemaautoescola\\views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82B55C85-2F86-491C-9A29-A910DE8AE50E}|SistemaAutoEscola\\SistemaAutoEscola.csproj|solutionrelative:sistemaautoescola\\views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B55C85-2F86-491C-9A29-A910DE8AE50E}|SistemaAutoEscola\\SistemaAutoEscola.csproj|d:\\asp mvc\\sistemaautoescola\\sistemaautoescola\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B55C85-2F86-491C-9A29-A910DE8AE50E}|SistemaAutoEscola\\SistemaAutoEscola.csproj|solutionrelative:sistemaautoescola\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B55C85-2F86-491C-9A29-A910DE8AE50E}|SistemaAutoEscola\\SistemaAutoEscola.csproj|d:\\asp mvc\\sistemaautoescola\\sistemaautoescola\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B55C85-2F86-491C-9A29-A910DE8AE50E}|SistemaAutoEscola\\SistemaAutoEscola.csproj|solutionrelative:sistemaautoescola\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B55C85-2F86-491C-9A29-A910DE8AE50E}|SistemaAutoEscola\\SistemaAutoEscola.csproj|d:\\asp mvc\\sistemaautoescola\\sistemaautoescola\\views\\carros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82B55C85-2F86-491C-9A29-A910DE8AE50E}|SistemaAutoEscola\\SistemaAutoEscola.csproj|solutionrelative:sistemaautoescola\\views\\carros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaAutoEscola\\SistemaAutoEscola\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "SistemaAutoEscola\\Models\\Reserva.cs",
+              "ToolTip": "D:\\ASP MVC\\SistemaAutoEscola\\SistemaAutoEscola\\Models\\Reserva.cs",
+              "RelativeToolTip": "SistemaAutoEscola\\Models\\Reserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:45:54.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaAutoEscola\\SistemaAutoEscola\\Models\\Carro.cs",
+              "RelativeDocumentMoniker": "SistemaAutoEscola\\Models\\Carro.cs",
+              "ToolTip": "D:\\ASP MVC\\SistemaAutoEscola\\SistemaAutoEscola\\Models\\Carro.cs",
+              "RelativeToolTip": "SistemaAutoEscola\\Models\\Carro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:43:44.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaAutoEscola\\SistemaAutoEscola\\Views\\Carros\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaAutoEscola\\Views\\Carros\\Index.cshtml",
+              "ToolTip": "D:\\ASP MVC\\SistemaAutoEscola\\SistemaAutoEscola\\Views\\Carros\\Index.cshtml",
+              "RelativeToolTip": "SistemaAutoEscola\\Views\\Carros\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T00:43:31.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaAutoEscola\\SistemaAutoEscola\\Views\\Reservas\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaAutoEscola\\Views\\Reservas\\Index.cshtml",
+              "ToolTip": "D:\\ASP MVC\\SistemaAutoEscola\\SistemaAutoEscola\\Views\\Reservas\\Index.cshtml",
+              "RelativeToolTip": "SistemaAutoEscola\\Views\\Reservas\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T00:42:01.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaAutoEscola\\SistemaAutoEscola\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "SistemaAutoEscola\\Controllers\\ReservasController.cs",
+              "ToolTip": "D:\\ASP MVC\\SistemaAutoEscola\\SistemaAutoEscola\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "SistemaAutoEscola\\Controllers\\ReservasController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:41:09.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaAutoEscola\\SistemaAutoEscola\\Views\\Reservas\\Create.cshtml",
+              "RelativeDocumentMoniker": "SistemaAutoEscola\\Views\\Reservas\\Create.cshtml",
+              "ToolTip": "D:\\ASP MVC\\SistemaAutoEscola\\SistemaAutoEscola\\Views\\Reservas\\Create.cshtml",
+              "RelativeToolTip": "SistemaAutoEscola\\Views\\Reservas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T00:41:02.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

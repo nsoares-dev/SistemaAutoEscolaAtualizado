@@ -1,0 +1,49 @@
+/* _content/SistemaAutoEscola/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-pjm6dt1y6c] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-pjm6dt1y6c] {
+  color: #0077cc;
+}
+
+.btn-primary[b-pjm6dt1y6c] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-pjm6dt1y6c], .nav-pills .show > .nav-link[b-pjm6dt1y6c] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-pjm6dt1y6c] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-pjm6dt1y6c] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-pjm6dt1y6c] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-pjm6dt1y6c] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-pjm6dt1y6c] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

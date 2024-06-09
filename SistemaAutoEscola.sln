@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaAutoEscola", "SistemaAutoEscola\SistemaAutoEscola.csproj", "{82B55C85-2F86-491C-9A29-A910DE8AE50E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82B55C85-2F86-491C-9A29-A910DE8AE50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B55C85-2F86-491C-9A29-A910DE8AE50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B55C85-2F86-491C-9A29-A910DE8AE50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B55C85-2F86-491C-9A29-A910DE8AE50E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DA1F6E8-DC6B-4F7E-8304-BAE323D13BF1}
+	EndGlobalSection
+EndGlobal
